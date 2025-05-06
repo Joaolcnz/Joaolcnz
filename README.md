@@ -36,5 +36,4 @@ Atualmente aprofundando meus estudos na [Alura](https://www.alura.com.br/), dese
 
 ## 📫 Contato
 
-- Email: seuemail@exemplo.com  
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- Email: Joaolcnz@gmail.com
